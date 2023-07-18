@@ -1,0 +1,1381 @@
+﻿Type_ID,Amount,City,State_Province_Code,Zip_Postal_Code,Country,Disposition
+55,1000,Los Angeles,LA,12345,United States,Approved
+55,1000,Los Angeles,LA,12345,United States,Approved
+55,1000,Los Angeles,LA,12345,United States,Approved
+55,3500,Los Angeles,LA,12345,United States,Approved
+55,3500,Los Angeles,LA,12345,United States,Approved
+55,18000,Los Angeles,LA,12345,United States,Declined
+55,18000,Los Angeles,LA,12345,United States,Declined
+55,18000,Los Angeles,LA,12345,United States,Declined
+55,18000,Los Angeles,LA,12345,United States,Declined
+55,18000,Los Angeles,LA,12345,United States,Declined
+55,1000,Los Angeles,LA,12345,United States,Approved
+55,1000,Los Angeles,LA,12345,United States,Approved
+55,1000,Los Angeles,LA,12345,United States,Approved
+55,1000,Los Angeles,LA,12345,United States,Approved
+111,3500,Los Angeles,LA,12345,United States,Approved
+111,1200,Los Angeles,LA,12345,United States,Approved
+111,1500,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,2750,Los Angeles,LA,12345,United States,Approved
+111,900,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,120000,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,1700,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,10000,Los Angeles,LA,12345,United States,Approved
+111,8000,Los Angeles,LA,12345,United States,Approved
+111,99999999,Los Angeles,LA,12345,United States,Approved
+111,1000,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,1,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+55,5700,Los Angeles,LA,12345,United States,Pending
+111,500,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,1,Los Angeles,LA,12345,United States,Approved
+111,5200,Los Angeles,LA,12345,United States,Approved
+111,30000,Los Angeles,LA,12345,United States,Approved
+111,9001,Los Angeles,LA,12345,United States,Approved
+111,16,Los Angeles,LA,12345,United States,Approved
+111,100,Los Angeles,LA,12345,United States,Approved
+111,23,Los Angeles,LA,12345,United States,Approved
+111,123,Los Angeles,LA,12345,United States,Approved
+111,840,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,50,Los Angeles,LA,12345,United States,Approved
+111,66,Los Angeles,LA,12345,United States,Approved
+111,5000,Los Angeles,LA,12345,United States,Approved
+55,500,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,53373.55,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,0,Los Angeles,LA,12345,United States,Pending
+111,0,Los Angeles,LA,12345,United States,Pending
+111,0,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,55000,Los Angeles,LA,12345,United States,Declined
+111,500,Los Angeles,LA,12345,United States,Approved
+55,1000,Los Angeles,LA,12345,United States,Approved
+55,1000,Los Angeles,LA,12345,United States,Approved
+55,18000,Los Angeles,LA,12345,United States,Declined
+55,18000,Los Angeles,LA,12345,United States,Declined
+55,18000,Los Angeles,LA,12345,United States,Declined
+55,1000,Los Angeles,LA,12345,United States,Approved
+55,1000,Los Angeles,LA,12345,United States,Approved
+55,1000,Los Angeles,LA,12345,United States,Approved
+55,1000,Los Angeles,LA,12345,United States,Approved
+55,25000,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,1,Los Angeles,LA,12345,United States,Approved
+55,5700,Los Angeles,LA,12345,United States,Pending
+111,500,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5200,Los Angeles,LA,12345,United States,Approved
+111,1,Los Angeles,LA,12345,United States,Approved
+111,30000,Los Angeles,LA,12345,United States,Approved
+111,16,Los Angeles,LA,12345,United States,Approved
+111,100,Los Angeles,LA,12345,United States,Approved
+111,23,Los Angeles,LA,12345,United States,Approved
+111,123,Los Angeles,LA,12345,United States,Approved
+111,840,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,50,Los Angeles,LA,12345,United States,Approved
+111,66,Los Angeles,LA,12345,United States,Approved
+111,5000,Los Angeles,LA,12345,United States,Approved
+111,9001,Los Angeles,LA,12345,United States,Approved
+55,500,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,53373.55,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,0,Los Angeles,LA,12345,United States,Pending
+111,0,Los Angeles,LA,12345,United States,Pending
+111,0,Los Angeles,LA,12345,United States,Pending
+111,55000,Los Angeles,LA,12345,United States,Declined
+111,500,Los Angeles,LA,12345,United States,Approved
+55,25000,Los Angeles,LA,12345,United States,Approved
+55,18000,Los Angeles,LA,12345,United States,Declined
+55,1000,Los Angeles,LA,12345,United States,Approved
+55,1000,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+55,3500,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+55,3500,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,3500,Los Angeles,LA,12345,United States,Approved
+55,18000,Los Angeles,LA,12345,United States,Declined
+55,18000,Los Angeles,LA,12345,United States,Declined
+55,1000,Los Angeles,LA,12345,United States,Approved
+55,18000,Los Angeles,LA,12345,United States,Declined
+55,18000,Los Angeles,LA,12345,United States,Declined
+111,1,Los Angeles,LA,12345,United States,Approved
+55,18000,Los Angeles,LA,12345,United States,Declined
+55,18000,Los Angeles,LA,12345,United States,Declined
+55,1000,Los Angeles,LA,12345,United States,Approved
+55,1000,Los Angeles,LA,12345,United States,Approved
+55,1000,Los Angeles,LA,12345,United States,Approved
+55,1000,Los Angeles,LA,12345,United States,Approved
+55,18000,Los Angeles,LA,12345,United States,Declined
+55,5700,Los Angeles,LA,12345,United States,Pending
+111,500,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Approved
+111,1,Los Angeles,LA,12345,United States,Approved
+111,5200,Los Angeles,LA,12345,United States,Approved
+55,1000,Los Angeles,LA,12345,United States,Approved
+111,30000,Los Angeles,LA,12345,United States,Approved
+111,16,Los Angeles,LA,12345,United States,Approved
+111,100,Los Angeles,LA,12345,United States,Approved
+111,23,Los Angeles,LA,12345,United States,Approved
+111,9001,Los Angeles,LA,12345,United States,Approved
+55,1000,Los Angeles,LA,12345,United States,Approved
+111,123,Los Angeles,LA,12345,United States,Approved
+111,840,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,50,Los Angeles,LA,12345,United States,Approved
+111,66,Los Angeles,LA,12345,United States,Approved
+111,5000,Los Angeles,LA,12345,United States,Approved
+55,500,Los Angeles,LA,12345,United States,Approved
+55,1000,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,53373.55,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,0,Los Angeles,LA,12345,United States,Pending
+111,0,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,0,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Approved
+111,55000,Los Angeles,LA,12345,United States,Declined
+111,500,Los Angeles,LA,12345,United States,Approved
+55,25000,Los Angeles,LA,12345,United States,Approved
+111,1200,Los Angeles,LA,12345,United States,Approved
+55,1000,Los Angeles,LA,12345,United States,Approved
+111,1500,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,2750,Los Angeles,LA,12345,United States,Approved
+111,900,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,120000,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,1700,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,10000,Los Angeles,LA,12345,United States,Approved
+111,8000,Los Angeles,LA,12345,United States,Approved
+111,99999999,Los Angeles,LA,12345,United States,Approved
+111,1000,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,1,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+55,5700,Los Angeles,LA,12345,United States,Pending
+111,500,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,1,Los Angeles,LA,12345,United States,Approved
+111,5200,Los Angeles,LA,12345,United States,Approved
+111,30000,Los Angeles,LA,12345,United States,Approved
+111,9001,Los Angeles,LA,12345,United States,Approved
+111,16,Los Angeles,LA,12345,United States,Approved
+111,100,Los Angeles,LA,12345,United States,Approved
+111,23,Los Angeles,LA,12345,United States,Approved
+111,123,Los Angeles,LA,12345,United States,Approved
+111,840,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,50,Los Angeles,LA,12345,United States,Approved
+111,66,Los Angeles,LA,12345,United States,Approved
+111,5000,Los Angeles,LA,12345,United States,Approved
+55,500,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,53373.55,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,0,Los Angeles,LA,12345,United States,Pending
+111,0,Los Angeles,LA,12345,United States,Pending
+111,0,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,55000,Los Angeles,LA,12345,United States,Declined
+111,500,Los Angeles,LA,12345,United States,Approved
+55,25000,Los Angeles,LA,12345,United States,Approved
+55,1000,Miami,FL,12346,United States,Pending
+111,5700,Miami,FL,12346,United States,Pending
+111,2200,Miami,FL,12346,United States,Approved
+111,5000,Miami,FL,12346,United States,Approved
+111,5700,Miami,FL,12346,United States,Pending
+111,2000,Miami,FL,12346,United States,Declined
+111,10000,Miami,FL,12346,United States,Approved
+111,5700,Miami,FL,12346,United States,Pending
+111,1E+12,Miami,FL,12346,United States,Approved
+55,1000,Miami,FL,12346,United States,Pending
+111,70,Miami,FL,12346,United States,Approved
+111,2000,Miami,FL,12346,United States,Declined
+626,100,Miami,FL,12346,United States,Approved
+111,100,Miami,FL,12346,United States,Approved
+111,70,Miami,FL,12346,United States,Approved
+626,100,Miami,FL,12346,United States,Approved
+111,100,Miami,FL,12346,United States,Approved
+111,5700,Miami,FL,12346,United States,Pending
+55,1000,Miami,FL,12346,United States,Pending
+111,5700,Miami,FL,12346,United States,Pending
+111,70,Miami,FL,12346,United States,Approved
+111,2000,Miami,FL,12346,United States,Declined
+111,100,Miami,FL,12346,United States,Approved
+626,100,Miami,FL,12346,United States,Approved
+55,1000,Miami,FL,12346,United States,Pending
+111,5700,Miami,FL,12346,United States,Pending
+111,2200,Miami,FL,12346,United States,Approved
+111,5000,Miami,FL,12346,United States,Approved
+111,5700,Miami,FL,12346,United States,Pending
+111,5700,Miami,FL,12346,United States,Pending
+111,1E+12,Miami,FL,12346,United States,Approved
+111,10000,Miami,FL,12346,United States,Approved
+111,100,Miami,FL,12346,United States,Approved
+626,100,Miami,FL,12346,United States,Approved
+111,70,Miami,FL,12346,United States,Approved
+111,2000,Miami,FL,12346,United States,Declined
+111,5700,Miami,FL,12347,United States,Pending
+111,100,Miami,FL,12347,United States,Approved
+111,5700,Miami,FL,12347,United States,Pending
+1234,5700,Miami,FL,12347,United States,Pending
+111,537,Miami,FL,12347,United States,Approved
+111,2312,Miami,FL,12347,United States,Approved
+111,2500,Miami,FL,12347,United States,Approved
+111,5700,Miami,FL,12347,United States,Pending
+55,500,Miami,FL,12347,United States,Approved
+55,66,Miami,FL,12347,United States,Approved
+111,5700,Miami,FL,12347,United States,Pending
+111,53373.55,Miami,FL,12347,United States,Approved
+1234,5700,Miami,FL,12347,United States,Pending
+111,100,Miami,FL,12347,United States,Approved
+55,1000,Miami,FL,12347,United States,Pending
+111,42125.21,Miami,FL,12347,United States,Approved
+111,5700,Miami,FL,12347,United States,Pending
+55,500,Miami,FL,12347,United States,Approved
+111,42125.21,Miami,FL,12347,United States,Approved
+55,66,Miami,FL,12347,United States,Approved
+55,1000,Miami,FL,12347,United States,Pending
+1234,5700,Miami,FL,12347,United States,Pending
+1234,5700,Miami,FL,12347,United States,Pending
+111,53373.55,Miami,FL,12347,United States,Approved
+111,5700,Miami,FL,12347,United States,Pending
+111,53373.55,Miami,FL,12347,United States,Approved
+111,42125.21,Miami,FL,12347,United States,Approved
+55,500,Miami,FL,12347,United States,Approved
+55,66,Miami,FL,12347,United States,Approved
+111,100,Miami,FL,12347,United States,Approved
+55,1000,Miami,FL,12347,United States,Pending
+111,5700,Miami,FL,12347,United States,Pending
+111,5700,Miami,FL,12347,United States,Pending
+111,2312,Miami,FL,12347,United States,Approved
+111,537,Miami,FL,12347,United States,Approved
+111,5700,Miami,FL,12347,United States,Pending
+111,2500,Miami,FL,12347,United States,Approved
+111,5700,Miami,FL,12347,United States,Pending
+111,100,Miami,FL,12347,United States,Approved
+55,1000,Miami,FL,12347,United States,Pending
+55,500,Miami,FL,12347,United States,Approved
+55,66,Miami,FL,12347,United States,Approved
+111,42125.21,Miami,FL,12347,United States,Approved
+111,53373.55,Miami,FL,12347,United States,Approved
+55,1000,Miami,FL,12348,United States,Pending
+111,5700,Miami,FL,12348,United States,Pending
+55,1000,Miami,FL,12348,United States,Pending
+111,12000,Miami,FL,12348,United States,Approved
+55,1000,Miami,FL,12348,United States,Pending
+55,1000,Miami,FL,12348,United States,Pending
+111,5700,Miami,FL,12348,United States,Pending
+111,12000,Miami,FL,12348,United States,Approved
+111,8800,New York,NY,12349,United States,Approved
+111,5700,New York,NY,12349,United States,Pending
+55,1000,New York,NY,12349,United States,Pending
+111,10000,New York,NY,12349,United States,Approved
+55,1000,New York,NY,12349,United States,Pending
+111,10000,New York,NY,12349,United States,Approved
+55,1000,New York,NY,12349,United States,Pending
+111,10000,New York,NY,12349,United States,Approved
+111,8800,New York,NY,12349,United States,Approved
+111,5700,New York,NY,12349,United States,Pending
+55,1000,New York,NY,12349,United States,Pending
+111,10000,New York,NY,12349,United States,Approved
+55,1000,Birmingham,AL,12350,United Kingdom,Pending
+55,1500,Birmingham,AL,12350,United Kingdom,Pending
+55,2500,Birmingham,AL,12350,United Kingdom,Pending
+55,5000,Birmingham,AL,12350,United Kingdom,Pending
+55,500,Birmingham,AL,12350,United Kingdom,Pending
+111,5700,Birmingham,AL,12350,United Kingdom,Pending
+55,1000,Birmingham,AL,12350,United Kingdom,Pending
+55,1500,Birmingham,AL,12350,United Kingdom,Pending
+55,2500,Birmingham,AL,12350,United Kingdom,Pending
+55,5000,Birmingham,AL,12350,United Kingdom,Pending
+55,500,Birmingham,AL,12350,United Kingdom,Pending
+55,1000,Birmingham,AL,12350,United Kingdom,Pending
+55,1500,Birmingham,AL,12350,United Kingdom,Pending
+55,2500,Birmingham,AL,12350,United Kingdom,Pending
+55,5000,Birmingham,AL,12350,United Kingdom,Pending
+55,500,Birmingham,AL,12350,United Kingdom,Pending
+111,5700,Birmingham,AL,12350,United Kingdom,Pending
+55,1000,Birmingham,AL,12350,United Kingdom,Pending
+55,1500,Birmingham,AL,12350,United Kingdom,Pending
+55,2500,Birmingham,AL,12350,United Kingdom,Pending
+55,5000,Birmingham,AL,12350,United Kingdom,Pending
+55,500,Birmingham,AL,12350,United Kingdom,Pending
+111,5700,Birmingham,AL,12350,United Kingdom,Pending
+111,5700,Birmingham,AL,12350,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,1050,Newport,WL,12352,United Kingdom,Approved
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,45,Newport,WL,12352,United Kingdom,Approved
+111,456,Newport,WL,12352,United Kingdom,Approved
+111,1234,Newport,WL,12352,United Kingdom,Approved
+111,100,Newport,WL,12352,United Kingdom,Approved
+111,10,Newport,WL,12352,United Kingdom,Approved
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,888,Newport,WL,12352,United Kingdom,Approved
+111,123,Newport,WL,12352,United Kingdom,Approved
+111,12,Newport,WL,12352,United Kingdom,Approved
+111,111,Newport,WL,12352,United Kingdom,Approved
+111,4000,Newport,WL,12352,United Kingdom,Approved
+111,1,Newport,WL,12352,United Kingdom,Approved
+111,46,Newport,WL,12352,United Kingdom,Approved
+111,7000,Newport,WL,12352,United Kingdom,Approved
+111,1,Newport,WL,12352,United Kingdom,Approved
+111,11,Newport,WL,12352,United Kingdom,Approved
+111,1,Newport,WL,12352,United Kingdom,Approved
+111,1000,Newport,WL,12352,United Kingdom,Approved
+111,1,Newport,WL,12352,United Kingdom,Approved
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,1750,Newport,WL,12352,United Kingdom,Approved
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,12,Newport,WL,12352,United Kingdom,Approved
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+70,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,1,Newport,WL,12352,United Kingdom,Approved
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,12,Newport,WL,12352,United Kingdom,Approved
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,4000,Newport,WL,12352,United Kingdom,Approved
+111,1,Newport,WL,12352,United Kingdom,Approved
+111,46,Newport,WL,12352,United Kingdom,Approved
+111,7000,Newport,WL,12352,United Kingdom,Approved
+111,1,Newport,WL,12352,United Kingdom,Approved
+111,1750,Newport,WL,12352,United Kingdom,Approved
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,1000,Newport,WL,12352,United Kingdom,Approved
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,123,Newport,WL,12352,United Kingdom,Approved
+111,12,Newport,WL,12352,United Kingdom,Approved
+111,888,Newport,WL,12352,United Kingdom,Approved
+111,111,Newport,WL,12352,United Kingdom,Approved
+111,1,Newport,WL,12352,United Kingdom,Approved
+111,11,Newport,WL,12352,United Kingdom,Approved
+111,53373.55,Newport,WL,12352,United Kingdom,Approved
+111,42125.21,Newport,WL,12352,United Kingdom,Approved
+111,40030.1625,Newport,WL,12352,United Kingdom,Approved
+111,53373.55,Newport,WL,12352,United Kingdom,Approved
+111,42125.21,Newport,WL,12352,United Kingdom,Approved
+111,53373.55,Newport,WL,12352,United Kingdom,Approved
+111,42125.21,Newport,WL,12352,United Kingdom,Approved
+111,40030.1625,Newport,WL,12352,United Kingdom,Approved
+111,42125.21,Newport,WL,12352,United Kingdom,Approved
+111,53373.55,Newport,WL,12352,United Kingdom,Approved
+55,1000,Newport,WL,12352,United Kingdom,Pending
+111,42125.21,Newport,WL,12352,United Kingdom,Approved
+111,53373.55,Newport,WL,12352,United Kingdom,Approved
+111,42125.21,Newport,WL,12352,United Kingdom,Approved
+111,40030.1625,Newport,WL,12352,United Kingdom,Approved
+111,53373.55,Newport,WL,12352,United Kingdom,Approved
+111,888,Newport,WL,12352,United Kingdom,Approved
+111,123,Newport,WL,12352,United Kingdom,Approved
+111,12,Newport,WL,12352,United Kingdom,Approved
+111,4000,Newport,WL,12352,United Kingdom,Approved
+111,1,Newport,WL,12352,United Kingdom,Approved
+111,1,Newport,WL,12352,United Kingdom,Approved
+111,11,Newport,WL,12352,United Kingdom,Approved
+111,1,Newport,WL,12352,United Kingdom,Approved
+111,111,Newport,WL,12352,United Kingdom,Approved
+111,46,Newport,WL,12352,United Kingdom,Approved
+111,7000,Newport,WL,12352,United Kingdom,Approved
+111,1750,Newport,WL,12352,United Kingdom,Approved
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,1000,Newport,WL,12352,United Kingdom,Approved
+55,1000,Newport,WL,12352,United Kingdom,Pending
+111,1,Newport,WL,12352,United Kingdom,Approved
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,12,Newport,WL,12352,United Kingdom,Approved
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+55,1000,Newport,WL,12352,United Kingdom,Pending
+111,10,Newport,WL,12352,United Kingdom,Approved
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,1050,Newport,WL,12352,United Kingdom,Approved
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,45,Newport,WL,12352,United Kingdom,Approved
+111,456,Newport,WL,12352,United Kingdom,Approved
+111,1234,Newport,WL,12352,United Kingdom,Approved
+111,100,Newport,WL,12352,United Kingdom,Approved
+70,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,1,Newport,WL,12352,United Kingdom,Approved
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,12,Newport,WL,12352,United Kingdom,Approved
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,1,Newport,WL,12352,United Kingdom,Approved
+111,11,Newport,WL,12352,United Kingdom,Approved
+111,1,Newport,WL,12352,United Kingdom,Approved
+111,1000,Newport,WL,12352,United Kingdom,Approved
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,1750,Newport,WL,12352,United Kingdom,Approved
+111,5700,Newport,WL,12352,United Kingdom,Pending
+55,1000,Newport,WL,12352,United Kingdom,Pending
+111,53373.55,Newport,WL,12352,United Kingdom,Approved
+111,42125.21,Newport,WL,12352,United Kingdom,Approved
+111,40030.1625,Newport,WL,12352,United Kingdom,Approved
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,42125.21,Newport,WL,12352,United Kingdom,Approved
+111,53373.55,Newport,WL,12352,United Kingdom,Approved
+111,888,Newport,WL,12352,United Kingdom,Approved
+111,123,Newport,WL,12352,United Kingdom,Approved
+111,12,Newport,WL,12352,United Kingdom,Approved
+111,111,Newport,WL,12352,United Kingdom,Approved
+111,4000,Newport,WL,12352,United Kingdom,Approved
+111,1,Newport,WL,12352,United Kingdom,Approved
+111,46,Newport,WL,12352,United Kingdom,Approved
+111,7000,Newport,WL,12352,United Kingdom,Approved
+111,5700,Plymouth,Hawaii,55482,United States,Pending
+55,400,Plymouth,Hawaii,55482,United States,Pending
+55,400,Plymouth,Hawaii,55482,United States,Pending
+111,5700,Plymouth,Hawaii,55482,United States,Pending
+55,400,Plymouth,Hawaii,55482,United States,Pending
+111,5700,Plymouth,Hawaii,55482,United States,Pending
+55,400,Plymouth,Hawaii,55482,United States,Pending
+111,5700,Plymouth,Hawaii,55482,United States,Pending
+111,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+111,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+111,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+111,5700,Minneapolis,Minnesota,55492,Italy,Pending
+70,60000,City4,State4,Postal4,India,Declined
+111,35000,City4,State4,Postal4,India,Approved
+70,3000,City4,State4,Postal4,India,Approved
+55,5700,City4,State4,Postal4,India,Pending
+55,10,City4,State4,Postal4,India,Approved
+55,20,City4,State4,Postal4,India,Approved
+55,30,City4,State4,Postal4,India,Approved
+55,40,City4,State4,Postal4,India,Approved
+55,240,City4,State4,Postal4,India,Approved
+55,10,City4,State4,Postal4,India,Approved
+55,20,City4,State4,Postal4,India,Approved
+55,5700,City4,State4,Postal4,India,Pending
+70,60000,City4,State4,Postal4,India,Declined
+111,35000,City4,State4,Postal4,India,Approved
+70,3000,City4,State4,Postal4,India,Approved
+55,5700,City4,State4,Postal4,India,Pending
+55,5700,City4,State4,Postal4,India,Pending
+70,60000,City4,State4,Postal4,India,Declined
+111,35000,City4,State4,Postal4,India,Approved
+70,3000,City4,State4,Postal4,India,Approved
+55,5700,City4,State4,Postal4,India,Pending
+55,5700,City4,State4,Postal4,India,Pending
+55,10,City4,State4,Postal4,India,Approved
+55,20,City4,State4,Postal4,India,Approved
+55,30,City4,State4,Postal4,India,Approved
+55,40,City4,State4,Postal4,India,Approved
+55,240,City4,State4,Postal4,India,Approved
+55,10,City4,State4,Postal4,India,Approved
+55,20,City4,State4,Postal4,India,Approved
+70,3000,City4,State4,Postal4,India,Approved
+55,5700,City4,State4,Postal4,India,Pending
+55,5700,City4,State4,Postal4,India,Pending
+70,60000,City4,State4,Postal4,India,Declined
+111,35000,City4,State4,Postal4,India,Approved
+70,5700,NULL,NULL,NULL,India,Pending
+70,5700,NULL,NULL,NULL,India,Pending
+70,5700,NULL,NULL,NULL,India,Pending
+70,5700,NULL,NULL,NULL,India,Pending
+70,5700,NULL,NULL,NULL,India,Pending
+70,5700,NULL,NULL,NULL,India,Pending
+70,5700,NULL,NULL,NULL,India,Pending
+70,5700,NULL,NULL,NULL,India,Pending
+70,5700,NULL,NULL,NULL,India,Pending
+70,5700,NULL,NULL,NULL,India,Pending
+70,5700,NULL,NULL,NULL,India,Pending
+70,5700,NULL,NULL,NULL,India,Pending
+111,19000,NULL,Minnesota,NULL,Canada,Approved
+111,95000,NULL,Minnesota,NULL,Canada,Approved
+55,1500,NULL,Minnesota,NULL,Canada,Declined
+55,1500,NULL,Minnesota,NULL,Canada,Declined
+111,19000,NULL,Minnesota,NULL,Canada,Approved
+111,95000,NULL,Minnesota,NULL,Canada,Approved
+55,1500,NULL,Minnesota,NULL,Canada,Declined
+55,1500,NULL,Minnesota,NULL,Canada,Declined
+111,1,NULL,Minnesota,NULL,Canada,Approved
+111,5700,NULL,Minnesota,NULL,Canada,Pending
+111,5700,NULL,Minnesota,NULL,Canada,Pending
+111,1,NULL,Minnesota,NULL,Canada,Approved
+111,5700,NULL,Minnesota,NULL,Canada,Pending
+111,5700,NULL,Minnesota,NULL,Canada,Pending
+111,1000,New Hope,Minnesota,,United States,Approved
+111,10000,New Hope,Minnesota,,United States,Approved
+111,10000,New Hope,Minnesota,,United States,Approved
+111,1000,New Hope,Minnesota,,United States,Approved
+111,1000,New Hope,Minnesota,,United States,Approved
+111,10000,New Hope,Minnesota,,United States,Approved
+111,1000,New Hope,Minnesota,,United States,Approved
+111,10000,New Hope,Minnesota,,United States,Approved
+111,1000,Adelaide,SA,12354,Australia,Approved
+111,5700,Adelaide,SA,12354,Australia,Pending
+111,1,Adelaide,SA,12354,Australia,Approved
+111,5700,Adelaide,SA,12354,Australia,Pending
+111,1000,Adelaide,SA,12354,Australia,Approved
+111,5700,Adelaide,SA,12354,Australia,Pending
+111,5700,Adelaide,SA,12354,Australia,Pending
+111,1,Adelaide,SA,12354,Australia,Approved
+111,5700,Adelaide,SA,12354,Australia,Pending
+111,5700,Adelaide,SA,12354,Australia,Pending
+111,1000,Adelaide,SA,12354,Australia,Approved
+111,1,Adelaide,SA,12354,Australia,Approved
+111,1000,Adelaide,SA,12354,Australia,Approved
+111,1,Adelaide,SA,12354,Australia,Approved
+111,5700,Adelaide,SA,12354,Australia,Pending
+111,5700,Adelaide,SA,12354,Australia,Pending
+55,3000,New Hope,Minnesota,4564,Canada,Declined
+111,20,New Hope,Minnesota,4564,Canada,Approved
+55,3000,New Hope,Minnesota,4564,Canada,Declined
+111,20,New Hope,Minnesota,4564,Canada,Approved
+111,20,New Hope,Minnesota,4564,Canada,Approved
+55,3000,New Hope,Minnesota,4564,Canada,Declined
+55,3000,New Hope,Minnesota,4564,Canada,Declined
+111,20,New Hope,Minnesota,4564,Canada,Approved
+55,1000,Los Angeles,LA,12345,United States,Approved
+55,1000,Los Angeles,LA,12345,United States,Approved
+55,1000,Los Angeles,LA,12345,United States,Approved
+55,3500,Los Angeles,LA,12345,United States,Approved
+55,3500,Los Angeles,LA,12345,United States,Approved
+55,18000,Los Angeles,LA,12345,United States,Declined
+55,18000,Los Angeles,LA,12345,United States,Declined
+55,18000,Los Angeles,LA,12345,United States,Declined
+55,18000,Los Angeles,LA,12345,United States,Declined
+55,18000,Los Angeles,LA,12345,United States,Declined
+55,1000,Los Angeles,LA,12345,United States,Approved
+55,1000,Los Angeles,LA,12345,United States,Approved
+55,1000,Los Angeles,LA,12345,United States,Approved
+55,1000,Los Angeles,LA,12345,United States,Approved
+111,3500,Los Angeles,LA,12345,United States,Approved
+111,1200,Los Angeles,LA,12345,United States,Approved
+111,1500,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,2750,Los Angeles,LA,12345,United States,Approved
+111,900,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,120000,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,1700,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,10000,Los Angeles,LA,12345,United States,Approved
+111,8000,Los Angeles,LA,12345,United States,Approved
+111,99999999,Los Angeles,LA,12345,United States,Approved
+111,1000,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,1,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+55,5700,Los Angeles,LA,12345,United States,Pending
+111,500,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,1,Los Angeles,LA,12345,United States,Approved
+111,5200,Los Angeles,LA,12345,United States,Approved
+111,30000,Los Angeles,LA,12345,United States,Approved
+111,9001,Los Angeles,LA,12345,United States,Approved
+111,16,Los Angeles,LA,12345,United States,Approved
+111,100,Los Angeles,LA,12345,United States,Approved
+111,23,Los Angeles,LA,12345,United States,Approved
+111,123,Los Angeles,LA,12345,United States,Approved
+111,840,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,50,Los Angeles,LA,12345,United States,Approved
+111,66,Los Angeles,LA,12345,United States,Approved
+111,5000,Los Angeles,LA,12345,United States,Approved
+55,500,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,53373.55,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,0,Los Angeles,LA,12345,United States,Pending
+111,0,Los Angeles,LA,12345,United States,Pending
+111,0,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,55000,Los Angeles,LA,12345,United States,Declined
+111,500,Los Angeles,LA,12345,United States,Approved
+55,1000,Los Angeles,LA,12345,United States,Approved
+55,1000,Los Angeles,LA,12345,United States,Approved
+55,18000,Los Angeles,LA,12345,United States,Declined
+55,18000,Los Angeles,LA,12345,United States,Declined
+55,18000,Los Angeles,LA,12345,United States,Declined
+55,1000,Los Angeles,LA,12345,United States,Approved
+55,1000,Los Angeles,LA,12345,United States,Approved
+55,1000,Los Angeles,LA,12345,United States,Approved
+55,1000,Los Angeles,LA,12345,United States,Approved
+55,25000,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,1,Los Angeles,LA,12345,United States,Approved
+55,5700,Los Angeles,LA,12345,United States,Pending
+111,500,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5200,Los Angeles,LA,12345,United States,Approved
+111,1,Los Angeles,LA,12345,United States,Approved
+111,30000,Los Angeles,LA,12345,United States,Approved
+111,16,Los Angeles,LA,12345,United States,Approved
+111,100,Los Angeles,LA,12345,United States,Approved
+111,23,Los Angeles,LA,12345,United States,Approved
+111,123,Los Angeles,LA,12345,United States,Approved
+111,840,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,50,Los Angeles,LA,12345,United States,Approved
+111,66,Los Angeles,LA,12345,United States,Approved
+111,5000,Los Angeles,LA,12345,United States,Approved
+111,9001,Los Angeles,LA,12345,United States,Approved
+55,500,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,53373.55,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,0,Los Angeles,LA,12345,United States,Pending
+111,0,Los Angeles,LA,12345,United States,Pending
+111,0,Los Angeles,LA,12345,United States,Pending
+111,55000,Los Angeles,LA,12345,United States,Declined
+111,500,Los Angeles,LA,12345,United States,Approved
+55,25000,Los Angeles,LA,12345,United States,Approved
+55,18000,Los Angeles,LA,12345,United States,Declined
+55,1000,Los Angeles,LA,12345,United States,Approved
+55,1000,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+55,3500,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+55,3500,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,3500,Los Angeles,LA,12345,United States,Approved
+55,18000,Los Angeles,LA,12345,United States,Declined
+55,18000,Los Angeles,LA,12345,United States,Declined
+55,1000,Los Angeles,LA,12345,United States,Approved
+55,18000,Los Angeles,LA,12345,United States,Declined
+55,18000,Los Angeles,LA,12345,United States,Declined
+111,1,Los Angeles,LA,12345,United States,Approved
+55,18000,Los Angeles,LA,12345,United States,Declined
+55,18000,Los Angeles,LA,12345,United States,Declined
+55,1000,Los Angeles,LA,12345,United States,Approved
+55,1000,Los Angeles,LA,12345,United States,Approved
+55,1000,Los Angeles,LA,12345,United States,Approved
+55,1000,Los Angeles,LA,12345,United States,Approved
+55,18000,Los Angeles,LA,12345,United States,Declined
+55,5700,Los Angeles,LA,12345,United States,Pending
+111,500,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Approved
+111,1,Los Angeles,LA,12345,United States,Approved
+111,5200,Los Angeles,LA,12345,United States,Approved
+55,1000,Los Angeles,LA,12345,United States,Approved
+111,30000,Los Angeles,LA,12345,United States,Approved
+111,16,Los Angeles,LA,12345,United States,Approved
+111,100,Los Angeles,LA,12345,United States,Approved
+111,23,Los Angeles,LA,12345,United States,Approved
+111,9001,Los Angeles,LA,12345,United States,Approved
+55,1000,Los Angeles,LA,12345,United States,Approved
+111,123,Los Angeles,LA,12345,United States,Approved
+111,840,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,50,Los Angeles,LA,12345,United States,Approved
+111,66,Los Angeles,LA,12345,United States,Approved
+111,5000,Los Angeles,LA,12345,United States,Approved
+55,500,Los Angeles,LA,12345,United States,Approved
+55,1000,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,53373.55,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,0,Los Angeles,LA,12345,United States,Pending
+111,0,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,0,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Approved
+111,55000,Los Angeles,LA,12345,United States,Declined
+111,500,Los Angeles,LA,12345,United States,Approved
+55,25000,Los Angeles,LA,12345,United States,Approved
+111,1200,Los Angeles,LA,12345,United States,Approved
+55,1000,Los Angeles,LA,12345,United States,Approved
+111,1500,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,2750,Los Angeles,LA,12345,United States,Approved
+111,900,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,120000,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,1700,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,10000,Los Angeles,LA,12345,United States,Approved
+111,8000,Los Angeles,LA,12345,United States,Approved
+111,99999999,Los Angeles,LA,12345,United States,Approved
+111,1000,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,1,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+55,5700,Los Angeles,LA,12345,United States,Pending
+111,500,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,1,Los Angeles,LA,12345,United States,Approved
+111,5200,Los Angeles,LA,12345,United States,Approved
+111,30000,Los Angeles,LA,12345,United States,Approved
+111,9001,Los Angeles,LA,12345,United States,Approved
+111,16,Los Angeles,LA,12345,United States,Approved
+111,100,Los Angeles,LA,12345,United States,Approved
+111,23,Los Angeles,LA,12345,United States,Approved
+111,123,Los Angeles,LA,12345,United States,Approved
+111,840,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,50,Los Angeles,LA,12345,United States,Approved
+111,66,Los Angeles,LA,12345,United States,Approved
+111,5000,Los Angeles,LA,12345,United States,Approved
+55,500,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,53373.55,Los Angeles,LA,12345,United States,Approved
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+55,1000,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,0,Los Angeles,LA,12345,United States,Pending
+111,0,Los Angeles,LA,12345,United States,Pending
+111,0,Los Angeles,LA,12345,United States,Pending
+111,5700,Los Angeles,LA,12345,United States,Pending
+111,55000,Los Angeles,LA,12345,United States,Declined
+111,500,Los Angeles,LA,12345,United States,Approved
+55,25000,Los Angeles,LA,12345,United States,Approved
+55,1000,Miami,FL,12346,United States,Pending
+111,5700,Miami,FL,12346,United States,Pending
+111,2200,Miami,FL,12346,United States,Approved
+111,5000,Miami,FL,12346,United States,Approved
+111,5700,Miami,FL,12346,United States,Pending
+111,2000,Miami,FL,12346,United States,Declined
+111,10000,Miami,FL,12346,United States,Approved
+111,5700,Miami,FL,12346,United States,Pending
+111,1E+12,Miami,FL,12346,United States,Approved
+55,1000,Miami,FL,12346,United States,Pending
+111,70,Miami,FL,12346,United States,Approved
+111,2000,Miami,FL,12346,United States,Declined
+626,100,Miami,FL,12346,United States,Approved
+111,100,Miami,FL,12346,United States,Approved
+111,70,Miami,FL,12346,United States,Approved
+626,100,Miami,FL,12346,United States,Approved
+111,100,Miami,FL,12346,United States,Approved
+111,5700,Miami,FL,12346,United States,Pending
+55,1000,Miami,FL,12346,United States,Pending
+111,5700,Miami,FL,12346,United States,Pending
+111,70,Miami,FL,12346,United States,Approved
+111,2000,Miami,FL,12346,United States,Declined
+111,100,Miami,FL,12346,United States,Approved
+626,100,Miami,FL,12346,United States,Approved
+55,1000,Miami,FL,12346,United States,Pending
+111,5700,Miami,FL,12346,United States,Pending
+111,2200,Miami,FL,12346,United States,Approved
+111,5000,Miami,FL,12346,United States,Approved
+111,5700,Miami,FL,12346,United States,Pending
+111,5700,Miami,FL,12346,United States,Pending
+111,1E+12,Miami,FL,12346,United States,Approved
+111,10000,Miami,FL,12346,United States,Approved
+111,100,Miami,FL,12346,United States,Approved
+626,100,Miami,FL,12346,United States,Approved
+111,70,Miami,FL,12346,United States,Approved
+111,2000,Miami,FL,12346,United States,Declined
+111,5700,Miami,FL,12347,United States,Pending
+111,100,Miami,FL,12347,United States,Approved
+111,5700,Miami,FL,12347,United States,Pending
+1234,5700,Miami,FL,12347,United States,Pending
+111,537,Miami,FL,12347,United States,Approved
+111,2312,Miami,FL,12347,United States,Approved
+111,2500,Miami,FL,12347,United States,Approved
+111,5700,Miami,FL,12347,United States,Pending
+55,500,Miami,FL,12347,United States,Approved
+55,66,Miami,FL,12347,United States,Approved
+111,5700,Miami,FL,12347,United States,Pending
+111,53373.55,Miami,FL,12347,United States,Approved
+1234,5700,Miami,FL,12347,United States,Pending
+111,100,Miami,FL,12347,United States,Approved
+55,1000,Miami,FL,12347,United States,Pending
+111,42125.21,Miami,FL,12347,United States,Approved
+111,5700,Miami,FL,12347,United States,Pending
+55,500,Miami,FL,12347,United States,Approved
+111,42125.21,Miami,FL,12347,United States,Approved
+55,66,Miami,FL,12347,United States,Approved
+55,1000,Miami,FL,12347,United States,Pending
+1234,5700,Miami,FL,12347,United States,Pending
+1234,5700,Miami,FL,12347,United States,Pending
+111,53373.55,Miami,FL,12347,United States,Approved
+111,5700,Miami,FL,12347,United States,Pending
+111,53373.55,Miami,FL,12347,United States,Approved
+111,42125.21,Miami,FL,12347,United States,Approved
+55,500,Miami,FL,12347,United States,Approved
+55,66,Miami,FL,12347,United States,Approved
+111,100,Miami,FL,12347,United States,Approved
+55,1000,Miami,FL,12347,United States,Pending
+111,5700,Miami,FL,12347,United States,Pending
+111,5700,Miami,FL,12347,United States,Pending
+111,2312,Miami,FL,12347,United States,Approved
+111,537,Miami,FL,12347,United States,Approved
+111,5700,Miami,FL,12347,United States,Pending
+111,2500,Miami,FL,12347,United States,Approved
+111,5700,Miami,FL,12347,United States,Pending
+111,100,Miami,FL,12347,United States,Approved
+55,1000,Miami,FL,12347,United States,Pending
+55,500,Miami,FL,12347,United States,Approved
+55,66,Miami,FL,12347,United States,Approved
+111,42125.21,Miami,FL,12347,United States,Approved
+111,53373.55,Miami,FL,12347,United States,Approved
+55,1000,Miami,FL,12348,United States,Pending
+111,5700,Miami,FL,12348,United States,Pending
+55,1000,Miami,FL,12348,United States,Pending
+111,12000,Miami,FL,12348,United States,Approved
+55,1000,Miami,FL,12348,United States,Pending
+55,1000,Miami,FL,12348,United States,Pending
+111,5700,Miami,FL,12348,United States,Pending
+111,12000,Miami,FL,12348,United States,Approved
+111,8800,New York,NY,12349,United States,Approved
+111,5700,New York,NY,12349,United States,Pending
+55,1000,New York,NY,12349,United States,Pending
+111,10000,New York,NY,12349,United States,Approved
+55,1000,New York,NY,12349,United States,Pending
+111,10000,New York,NY,12349,United States,Approved
+55,1000,New York,NY,12349,United States,Pending
+111,10000,New York,NY,12349,United States,Approved
+111,8800,New York,NY,12349,United States,Approved
+111,5700,New York,NY,12349,United States,Pending
+55,1000,New York,NY,12349,United States,Pending
+111,10000,New York,NY,12349,United States,Approved
+55,1000,Birmingham,AL,12350,United Kingdom,Pending
+55,1500,Birmingham,AL,12350,United Kingdom,Pending
+55,2500,Birmingham,AL,12350,United Kingdom,Pending
+55,5000,Birmingham,AL,12350,United Kingdom,Pending
+55,500,Birmingham,AL,12350,United Kingdom,Pending
+111,5700,Birmingham,AL,12350,United Kingdom,Pending
+55,1000,Birmingham,AL,12350,United Kingdom,Pending
+55,1500,Birmingham,AL,12350,United Kingdom,Pending
+55,2500,Birmingham,AL,12350,United Kingdom,Pending
+55,5000,Birmingham,AL,12350,United Kingdom,Pending
+55,500,Birmingham,AL,12350,United Kingdom,Pending
+55,1000,Birmingham,AL,12350,United Kingdom,Pending
+55,1500,Birmingham,AL,12350,United Kingdom,Pending
+55,2500,Birmingham,AL,12350,United Kingdom,Pending
+55,5000,Birmingham,AL,12350,United Kingdom,Pending
+55,500,Birmingham,AL,12350,United Kingdom,Pending
+111,5700,Birmingham,AL,12350,United Kingdom,Pending
+55,1000,Birmingham,AL,12350,United Kingdom,Pending
+55,1500,Birmingham,AL,12350,United Kingdom,Pending
+55,2500,Birmingham,AL,12350,United Kingdom,Pending
+55,5000,Birmingham,AL,12350,United Kingdom,Pending
+55,500,Birmingham,AL,12350,United Kingdom,Pending
+111,5700,Birmingham,AL,12350,United Kingdom,Pending
+111,5700,Birmingham,AL,12350,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,1050,Newport,WL,12352,United Kingdom,Approved
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,45,Newport,WL,12352,United Kingdom,Approved
+111,456,Newport,WL,12352,United Kingdom,Approved
+111,1234,Newport,WL,12352,United Kingdom,Approved
+111,100,Newport,WL,12352,United Kingdom,Approved
+111,10,Newport,WL,12352,United Kingdom,Approved
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,888,Newport,WL,12352,United Kingdom,Approved
+111,123,Newport,WL,12352,United Kingdom,Approved
+111,12,Newport,WL,12352,United Kingdom,Approved
+111,111,Newport,WL,12352,United Kingdom,Approved
+111,4000,Newport,WL,12352,United Kingdom,Approved
+111,1,Newport,WL,12352,United Kingdom,Approved
+111,46,Newport,WL,12352,United Kingdom,Approved
+111,7000,Newport,WL,12352,United Kingdom,Approved
+111,1,Newport,WL,12352,United Kingdom,Approved
+111,11,Newport,WL,12352,United Kingdom,Approved
+111,1,Newport,WL,12352,United Kingdom,Approved
+111,1000,Newport,WL,12352,United Kingdom,Approved
+111,1,Newport,WL,12352,United Kingdom,Approved
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,1750,Newport,WL,12352,United Kingdom,Approved
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,12,Newport,WL,12352,United Kingdom,Approved
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+70,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,1,Newport,WL,12352,United Kingdom,Approved
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,12,Newport,WL,12352,United Kingdom,Approved
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,4000,Newport,WL,12352,United Kingdom,Approved
+111,1,Newport,WL,12352,United Kingdom,Approved
+111,46,Newport,WL,12352,United Kingdom,Approved
+111,7000,Newport,WL,12352,United Kingdom,Approved
+111,1,Newport,WL,12352,United Kingdom,Approved
+111,1750,Newport,WL,12352,United Kingdom,Approved
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,1000,Newport,WL,12352,United Kingdom,Approved
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,123,Newport,WL,12352,United Kingdom,Approved
+111,12,Newport,WL,12352,United Kingdom,Approved
+111,888,Newport,WL,12352,United Kingdom,Approved
+111,111,Newport,WL,12352,United Kingdom,Approved
+111,1,Newport,WL,12352,United Kingdom,Approved
+111,11,Newport,WL,12352,United Kingdom,Approved
+111,53373.55,Newport,WL,12352,United Kingdom,Approved
+111,42125.21,Newport,WL,12352,United Kingdom,Approved
+111,40030.1625,Newport,WL,12352,United Kingdom,Approved
+111,53373.55,Newport,WL,12352,United Kingdom,Approved
+111,42125.21,Newport,WL,12352,United Kingdom,Approved
+111,53373.55,Newport,WL,12352,United Kingdom,Approved
+111,42125.21,Newport,WL,12352,United Kingdom,Approved
+111,40030.1625,Newport,WL,12352,United Kingdom,Approved
+111,42125.21,Newport,WL,12352,United Kingdom,Approved
+111,53373.55,Newport,WL,12352,United Kingdom,Approved
+55,1000,Newport,WL,12352,United Kingdom,Pending
+111,42125.21,Newport,WL,12352,United Kingdom,Approved
+111,53373.55,Newport,WL,12352,United Kingdom,Approved
+111,42125.21,Newport,WL,12352,United Kingdom,Approved
+111,40030.1625,Newport,WL,12352,United Kingdom,Approved
+111,53373.55,Newport,WL,12352,United Kingdom,Approved
+111,888,Newport,WL,12352,United Kingdom,Approved
+111,123,Newport,WL,12352,United Kingdom,Approved
+111,12,Newport,WL,12352,United Kingdom,Approved
+111,4000,Newport,WL,12352,United Kingdom,Approved
+111,1,Newport,WL,12352,United Kingdom,Approved
+111,1,Newport,WL,12352,United Kingdom,Approved
+111,11,Newport,WL,12352,United Kingdom,Approved
+111,1,Newport,WL,12352,United Kingdom,Approved
+111,111,Newport,WL,12352,United Kingdom,Approved
+111,46,Newport,WL,12352,United Kingdom,Approved
+111,7000,Newport,WL,12352,United Kingdom,Approved
+111,1750,Newport,WL,12352,United Kingdom,Approved
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,1000,Newport,WL,12352,United Kingdom,Approved
+55,1000,Newport,WL,12352,United Kingdom,Pending
+111,1,Newport,WL,12352,United Kingdom,Approved
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,12,Newport,WL,12352,United Kingdom,Approved
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+55,1000,Newport,WL,12352,United Kingdom,Pending
+111,10,Newport,WL,12352,United Kingdom,Approved
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,1050,Newport,WL,12352,United Kingdom,Approved
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,45,Newport,WL,12352,United Kingdom,Approved
+111,456,Newport,WL,12352,United Kingdom,Approved
+111,1234,Newport,WL,12352,United Kingdom,Approved
+111,100,Newport,WL,12352,United Kingdom,Approved
+70,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,1,Newport,WL,12352,United Kingdom,Approved
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,12,Newport,WL,12352,United Kingdom,Approved
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,1,Newport,WL,12352,United Kingdom,Approved
+111,11,Newport,WL,12352,United Kingdom,Approved
+111,1,Newport,WL,12352,United Kingdom,Approved
+111,1000,Newport,WL,12352,United Kingdom,Approved
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,1750,Newport,WL,12352,United Kingdom,Approved
+111,5700,Newport,WL,12352,United Kingdom,Pending
+55,1000,Newport,WL,12352,United Kingdom,Pending
+111,53373.55,Newport,WL,12352,United Kingdom,Approved
+111,42125.21,Newport,WL,12352,United Kingdom,Approved
+111,40030.1625,Newport,WL,12352,United Kingdom,Approved
+111,5700,Newport,WL,12352,United Kingdom,Pending
+111,42125.21,Newport,WL,12352,United Kingdom,Approved
+111,53373.55,Newport,WL,12352,United Kingdom,Approved
+111,888,Newport,WL,12352,United Kingdom,Approved
+111,123,Newport,WL,12352,United Kingdom,Approved
+111,12,Newport,WL,12352,United Kingdom,Approved
+111,111,Newport,WL,12352,United Kingdom,Approved
+111,4000,Newport,WL,12352,United Kingdom,Approved
+111,1,Newport,WL,12352,United Kingdom,Approved
+111,46,Newport,WL,12352,United Kingdom,Approved
+111,7000,Newport,WL,12352,United Kingdom,Approved
+111,5700,Plymouth,Hawaii,55482,United States,Pending
+55,400,Plymouth,Hawaii,55482,United States,Pending
+55,400,Plymouth,Hawaii,55482,United States,Pending
+111,5700,Plymouth,Hawaii,55482,United States,Pending
+55,400,Plymouth,Hawaii,55482,United States,Pending
+111,5700,Plymouth,Hawaii,55482,United States,Pending
+55,400,Plymouth,Hawaii,55482,United States,Pending
+111,5700,Plymouth,Hawaii,55482,United States,Pending
+111,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+111,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+111,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+55,5700,Minneapolis,Minnesota,55492,Italy,Pending
+111,5700,Minneapolis,Minnesota,55492,Italy,Pending
+70,60000,City4,State4,Postal4,India,Declined
+111,35000,City4,State4,Postal4,India,Approved
+70,3000,City4,State4,Postal4,India,Approved
+55,5700,City4,State4,Postal4,India,Pending
+55,10,City4,State4,Postal4,India,Approved
+55,20,City4,State4,Postal4,India,Approved
+55,30,City4,State4,Postal4,India,Approved
+55,40,City4,State4,Postal4,India,Approved
+55,240,City4,State4,Postal4,India,Approved
+55,10,City4,State4,Postal4,India,Approved
+55,20,City4,State4,Postal4,India,Approved
+55,5700,City4,State4,Postal4,India,Pending
+70,60000,City4,State4,Postal4,India,Declined
+111,35000,City4,State4,Postal4,India,Approved
+70,3000,City4,State4,Postal4,India,Approved
+55,5700,City4,State4,Postal4,India,Pending
+55,5700,City4,State4,Postal4,India,Pending
+70,60000,City4,State4,Postal4,India,Declined
+111,35000,City4,State4,Postal4,India,Approved
+70,3000,City4,State4,Postal4,India,Approved
+55,5700,City4,State4,Postal4,India,Pending
+55,5700,City4,State4,Postal4,India,Pending
+55,10,City4,State4,Postal4,India,Approved
+55,20,City4,State4,Postal4,India,Approved
+55,30,City4,State4,Postal4,India,Approved
+55,40,City4,State4,Postal4,India,Approved
+55,240,City4,State4,Postal4,India,Approved
+55,10,City4,State4,Postal4,India,Approved
+55,20,City4,State4,Postal4,India,Approved
+70,3000,City4,State4,Postal4,India,Approved
+55,5700,City4,State4,Postal4,India,Pending
+55,5700,City4,State4,Postal4,India,Pending
+70,60000,City4,State4,Postal4,India,Declined
+111,35000,City4,State4,Postal4,India,Approved
+70,5700,NULL,NULL,NULL,India,Pending
+70,5700,NULL,NULL,NULL,India,Pending
+70,5700,NULL,NULL,NULL,India,Pending
+70,5700,NULL,NULL,NULL,India,Pending
+70,5700,NULL,NULL,NULL,India,Pending
+70,5700,NULL,NULL,NULL,India,Pending
+70,5700,NULL,NULL,NULL,India,Pending
+70,5700,NULL,NULL,NULL,India,Pending
+70,5700,NULL,NULL,NULL,India,Pending
+70,5700,NULL,NULL,NULL,India,Pending
+70,5700,NULL,NULL,NULL,India,Pending
+70,5700,NULL,NULL,NULL,India,Pending
+111,19000,NULL,Minnesota,NULL,Canada,Approved
+111,95000,NULL,Minnesota,NULL,Canada,Approved
+55,1500,NULL,Minnesota,NULL,Canada,Declined
+55,1500,NULL,Minnesota,NULL,Canada,Declined
+111,19000,NULL,Minnesota,NULL,Canada,Approved
+111,95000,NULL,Minnesota,NULL,Canada,Approved
+55,1500,NULL,Minnesota,NULL,Canada,Declined
+55,1500,NULL,Minnesota,NULL,Canada,Declined
+111,1,NULL,Minnesota,NULL,Canada,Approved
+111,5700,NULL,Minnesota,NULL,Canada,Pending
+111,5700,NULL,Minnesota,NULL,Canada,Pending
+111,1,NULL,Minnesota,NULL,Canada,Approved
+111,5700,NULL,Minnesota,NULL,Canada,Pending
+111,5700,NULL,Minnesota,NULL,Canada,Pending
+111,1000,New Hope,Minnesota,,United States,Approved
+111,10000,New Hope,Minnesota,,United States,Approved
+111,10000,New Hope,Minnesota,,United States,Approved
+111,1000,New Hope,Minnesota,,United States,Approved
+111,1000,New Hope,Minnesota,,United States,Approved
+111,10000,New Hope,Minnesota,,United States,Approved
+111,1000,New Hope,Minnesota,,United States,Approved
+111,10000,New Hope,Minnesota,,United States,Approved
+111,1000,Adelaide,SA,12354,Australia,Approved
+111,5700,Adelaide,SA,12354,Australia,Pending
+111,1,Adelaide,SA,12354,Australia,Approved
+111,5700,Adelaide,SA,12354,Australia,Pending
+111,1000,Adelaide,SA,12354,Australia,Approved
+111,5700,Adelaide,SA,12354,Australia,Pending
+111,5700,Adelaide,SA,12354,Australia,Pending
+111,1,Adelaide,SA,12354,Australia,Approved
+111,5700,Adelaide,SA,12354,Australia,Pending
+111,5700,Adelaide,SA,12354,Australia,Pending
+111,1000,Adelaide,SA,12354,Australia,Approved
+111,1,Adelaide,SA,12354,Australia,Approved
+111,1000,Adelaide,SA,12354,Australia,Approved
+111,1,Adelaide,SA,12354,Australia,Approved
+111,5700,Adelaide,SA,12354,Australia,Pending
+111,5700,Adelaide,SA,12354,Australia,Pending
+55,3000,New Hope,Minnesota,4564,Canada,Declined
+111,20,New Hope,Minnesota,4564,Canada,Approved
+55,3000,New Hope,Minnesota,4564,Canada,Declined
+111,20,New Hope,Minnesota,4564,Canada,Approved
+111,20,New Hope,Minnesota,4564,Canada,Approved
+55,3000,New Hope,Minnesota,4564,Canada,Declined
+55,3000,New Hope,Minnesota,4564,Canada,Declined
+111,20,New Hope,Minnesota,4564,Canada,Approved

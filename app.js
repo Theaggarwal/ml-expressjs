@@ -6,9 +6,10 @@ const tf = require('@tensorflow/tfjs');
 const sk = require('scikitjs');
 sk.setBackend(tf)
 
-let dataset = 'dataset_insurance.csv'
+const pd = require("node-pandas")
 
-// bd=pd.read_csv(file,delimiter=';')
+let dataset = 'Dataset.csv'
+bd=pd.readCsv(dataset,delimiter=';')
 
 let X = [
   [2, 3],
